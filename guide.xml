@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MoviesHD1">
+    <display-name lang="en">beIN Movies Premium 1 HD</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="MoviesHD2">
+    <display-name lang="en">beIN Movies Action 2 HD</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="MoviesHD3">
+    <display-name lang="en">beIN Movies Drama 3 HD</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="MoviesHD4">
+    <display-name lang="en">beIN Movies Family 4 HD</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20200423011500 +0000" stop="20200423033000 +0000" channel="MoviesHD1">
+    <title lang="en">Through the Fire</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423033000 +0000" stop="20200423051500 +0000" channel="MoviesHD1">
+    <title lang="en">Mickey and the Bear</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423051500 +0000" stop="20200423070000 +0000" channel="MoviesHD1">
+    <title lang="en">Kin</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423070000 +0000" stop="20200423084500 +0000" channel="MoviesHD1">
+    <title lang="en">End of Sentence</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423084500 +0000" stop="20200423103000 +0000" channel="MoviesHD1">
+    <title lang="en">Denmark</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423103000 +0000" stop="20200423121500 +0000" channel="MoviesHD1">
+    <title lang="en">The Courier</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423121500 +0000" stop="20200423141500 +0000" channel="MoviesHD1">
+    <title lang="en">Goalie</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423141500 +0000" stop="20200423160000 +0000" channel="MoviesHD1">
+    <title lang="en">Denmark</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423160000 +0000" stop="20200423180000 +0000" channel="MoviesHD1">
+    <title lang="en">Rogue Warfare 2: The Hunt</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423180000 +0000" stop="20200423193000 +0000" channel="MoviesHD1">
+    <title lang="en">Forever In My Heart</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423193000 +0000" stop="20200423214500 +0000" channel="MoviesHD1">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423214500 +0000" stop="20200423231500 +0000" channel="MoviesHD1">
+    <title lang="en">Everfall</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423231500 +0000" stop="20200424010000 +0000" channel="MoviesHD1">
+    <title lang="en">Revenge</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423004500 +0000" stop="20200423023000 +0000" channel="MoviesHD2">
+    <title lang="en">Before I Wake</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423023000 +0000" stop="20200423044000 +0000" channel="MoviesHD2">
+    <title lang="en">12 Strong</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423044000 +0000" stop="20200423065000 +0000" channel="MoviesHD2">
+    <title lang="en">Flags of Our Fathers</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423065000 +0000" stop="20200423081500 +0000" channel="MoviesHD2">
+    <title lang="en">The Lazarus Effect</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423081500 +0000" stop="20200423100000 +0000" channel="MoviesHD2">
+    <title lang="en">Geostorm</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423100000 +0000" stop="20200423114500 +0000" channel="MoviesHD2">
+    <title lang="en">Firewall</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423114500 +0000" stop="20200423133000 +0000" channel="MoviesHD2">
+    <title lang="en">The Time Machine</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423133000 +0000" stop="20200423151500 +0000" channel="MoviesHD2">
+    <title lang="en">Daughter of the Wolf</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423151500 +0000" stop="20200423171500 +0000" channel="MoviesHD2">
+    <title lang="en">Geostorm</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423171500 +0000" stop="20200423190000 +0000" channel="MoviesHD2">
+    <title lang="en">Payback</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423190000 +0000" stop="20200423210000 +0000" channel="MoviesHD2">
+    <title lang="en">Ocean's Eight</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423210000 +0000" stop="20200423224500 +0000" channel="MoviesHD2">
+    <title lang="en">The Tourist</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423224500 +0000" stop="20200424011500 +0000" channel="MoviesHD2">
+    <title lang="en">Divergent</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423000000 +0000" stop="20200423014000 +0000" channel="MoviesHD3">
+    <title lang="en">Big Bear</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423014000 +0000" stop="20200423033000 +0000" channel="MoviesHD3">
+    <title lang="en">Bittersweet</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423033000 +0000" stop="20200423051500 +0000" channel="MoviesHD3">
+    <title lang="en">Mommy Be Mine</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423051500 +0000" stop="20200423070000 +0000" channel="MoviesHD3">
+    <title lang="en">Con Man</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423070000 +0000" stop="20200423090000 +0000" channel="MoviesHD3">
+    <title lang="en">Pawn Sacrifice</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423090000 +0000" stop="20200423111500 +0000" channel="MoviesHD3">
+    <title lang="en">42</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423111500 +0000" stop="20200423124500 +0000" channel="MoviesHD3">
+    <title lang="en">Kings for a Day</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423124500 +0000" stop="20200423143000 +0000" channel="MoviesHD3">
+    <title lang="en">The Lake House</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423143000 +0000" stop="20200423164500 +0000" channel="MoviesHD3">
+    <title lang="en">42</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423164500 +0000" stop="20200423183000 +0000" channel="MoviesHD3">
+    <title lang="en">Life of the Party</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423183000 +0000" stop="20200423201500 +0000" channel="MoviesHD3">
+    <title lang="en">Loving Pablo</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423201500 +0000" stop="20200423221500 +0000" channel="MoviesHD3">
+    <title lang="en">Father Figures</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423221500 +0000" stop="20200424000000 +0000" channel="MoviesHD3">
+    <title lang="en">Borg Vs Mcenroe</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423000000 +0000" stop="20200423013500 +0000" channel="MoviesHD4">
+    <title lang="en">Christmas Eve</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423013500 +0000" stop="20200423025500 +0000" channel="MoviesHD4">
+    <title lang="en">Justice League vs the Fatal Five</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423025500 +0000" stop="20200423043500 +0000" channel="MoviesHD4">
+    <title lang="en">Nancy Drew</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423043500 +0000" stop="20200423060500 +0000" channel="MoviesHD4">
+    <title lang="en">Pure Country Pure Heart</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423060500 +0000" stop="20200423080000 +0000" channel="MoviesHD4">
+    <title lang="en">Dolphin Tale</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423080000 +0000" stop="20200423093500 +0000" channel="MoviesHD4">
+    <title lang="en">Christmas Eve</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423093500 +0000" stop="20200423105500 +0000" channel="MoviesHD4">
+    <title lang="en">Corpse Bride</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423105500 +0000" stop="20200423123000 +0000" channel="MoviesHD4">
+    <title lang="en">Sgt. Stubby: An Unlikely Hero</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423123000 +0000" stop="20200423140000 +0000" channel="MoviesHD4">
+    <title lang="en">Alex &amp; Me</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423140000 +0000" stop="20200423160000 +0000" channel="MoviesHD4">
+    <title lang="en">Fred Claus</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423160000 +0000" stop="20200423173000 +0000" channel="MoviesHD4">
+    <title lang="en">The Death of Superman</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423173000 +0000" stop="20200423193000 +0000" channel="MoviesHD4">
+    <title lang="en">The Sisterhood of the Traveling Pants</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423193000 +0000" stop="20200423210000 +0000" channel="MoviesHD4">
+    <title lang="en">Cats &amp; Dogs</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423210000 +0000" stop="20200423223000 +0000" channel="MoviesHD4">
+    <title lang="en">Jungle Shuffle</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200423223000 +0000" stop="20200424003000 +0000" channel="MoviesHD4">
+    <title lang="en">The Little Witch</title>
+    <category lang="en">Movies</category>
+  </programme>
+  </channel>
+  <programme start="20200424010000 +0000" stop="20200424024500 +0000" channel="MoviesHD1">
+    <title lang="en">Kin</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424024500 +0000" stop="20200424043000 +0000" channel="MoviesHD1">
+    <title lang="en">Nightclub Secrets</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424043000 +0000" stop="20200424061500 +0000" channel="MoviesHD1">
+    <title lang="en">End of Sentence</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424061500 +0000" stop="20200424081500 +0000" channel="MoviesHD1">
+    <title lang="en">The Adventurers</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424081500 +0000" stop="20200424100000 +0000" channel="MoviesHD1">
+    <title lang="en">Forever In My Heart</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424100000 +0000" stop="20200424120000 +0000" channel="MoviesHD1">
+    <title lang="en">Rogue Warfare 2: The Hunt</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424120000 +0000" stop="20200424141500 +0000" channel="MoviesHD1">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424141500 +0000" stop="20200424160000 +0000" channel="MoviesHD1">
+    <title lang="en">Forever In My Heart</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424160000 +0000" stop="20200424180000 +0000" channel="MoviesHD1">
+    <title lang="en">Rogue Warfare 2: The Hunt</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424180000 +0000" stop="20200424200000 +0000" channel="MoviesHD1">
+    <title lang="en">The Meg</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424200000 +0000" stop="20200424214500 +0000" channel="MoviesHD1">
+    <title lang="en">The Dating List</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424214500 +0000" stop="20200425000000 +0000" channel="MoviesHD1">
+    <title lang="en">The Sisters Brothers</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424011500 +0000" stop="20200424033000 +0000" channel="MoviesHD2">
+    <title lang="en">Flags of Our Fathers</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424033000 +0000" stop="20200424053000 +0000" channel="MoviesHD2">
+    <title lang="en">Firewall</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424053000 +0000" stop="20200424080000 +0000" channel="MoviesHD2">
+    <title lang="en">Divergent</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424080000 +0000" stop="20200424094500 +0000" channel="MoviesHD2">
+    <title lang="en">Swordfish</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424094500 +0000" stop="20200424114500 +0000" channel="MoviesHD2">
+    <title lang="en">Ocean's Eight</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424114500 +0000" stop="20200424133000 +0000" channel="MoviesHD2">
+    <title lang="en">Payback</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424133000 +0000" stop="20200424151500 +0000" channel="MoviesHD2">
+    <title lang="en">The Tourist</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424151500 +0000" stop="20200424171500 +0000" channel="MoviesHD2">
+    <title lang="en">Ocean's Eight</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424171500 +0000" stop="20200424190000 +0000" channel="MoviesHD2">
+    <title lang="en">The Titan</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424190000 +0000" stop="20200424204500 +0000" channel="MoviesHD2">
+    <title lang="en">The Cabin in the Woods</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424204500 +0000" stop="20200424230000 +0000" channel="MoviesHD2">
+    <title lang="en">Assassins</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424230000 +0000" stop="20200425011500 +0000" channel="MoviesHD2">
+    <title lang="en">Conspiracy Theory</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424000000 +0000" stop="20200424013000 +0000" channel="MoviesHD3">
+    <title lang="en">White Orchid</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424013000 +0000" stop="20200424031500 +0000" channel="MoviesHD3">
+    <title lang="en">Trafficked</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424031500 +0000" stop="20200424044500 +0000" channel="MoviesHD3">
+    <title lang="en">Big Bear</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424044500 +0000" stop="20200424062500 +0000" channel="MoviesHD3">
+    <title lang="en">Bittersweet</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424062500 +0000" stop="20200424074500 +0000" channel="MoviesHD3">
+    <title lang="en">Furlough</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424074500 +0000" stop="20200424091500 +0000" channel="MoviesHD3">
+    <title lang="en">Hairbrained</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424091500 +0000" stop="20200424110000 +0000" channel="MoviesHD3">
+    <title lang="en">Loving Pablo</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424110000 +0000" stop="20200424124500 +0000" channel="MoviesHD3">
+    <title lang="en">Life of the Party</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424124500 +0000" stop="20200424144000 +0000" channel="MoviesHD3">
+    <title lang="en">Father Figures</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424144000 +0000" stop="20200424163000 +0000" channel="MoviesHD3">
+    <title lang="en">Loving Pablo</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424163000 +0000" stop="20200424183000 +0000" channel="MoviesHD3">
+    <title lang="en">The Bookshop</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424183000 +0000" stop="20200424201500 +0000" channel="MoviesHD3">
+    <title lang="en">Music and Lyrics</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424201500 +0000" stop="20200424214500 +0000" channel="MoviesHD3">
+    <title lang="en">Last Rampage</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424214500 +0000" stop="20200424233000 +0000" channel="MoviesHD3">
+    <title lang="en">Angels in Stardust</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424233000 +0000" stop="20200425012000 +0000" channel="MoviesHD3">
+    <title lang="en">The Rider</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424003000 +0000" stop="20200424015000 +0000" channel="MoviesHD4">
+    <title lang="en">Corpse Bride</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424015000 +0000" stop="20200424031500 +0000" channel="MoviesHD4">
+    <title lang="en">Jungle Shuffle</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424031500 +0000" stop="20200424045000 +0000" channel="MoviesHD4">
+    <title lang="en">Sgt. Stubby: An Unlikely Hero</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424045000 +0000" stop="20200424062000 +0000" channel="MoviesHD4">
+    <title lang="en">Alex &amp; Me</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424062000 +0000" stop="20200424082000 +0000" channel="MoviesHD4">
+    <title lang="en">Fred Claus</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424082000 +0000" stop="20200424094000 +0000" channel="MoviesHD4">
+    <title lang="en">Corpse Bride</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424094000 +0000" stop="20200424110000 +0000" channel="MoviesHD4">
+    <title lang="en">Justice League vs the Fatal Five</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424110000 +0000" stop="20200424123000 +0000" channel="MoviesHD4">
+    <title lang="en">The Death of Superman</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424123000 +0000" stop="20200424143000 +0000" channel="MoviesHD4">
+    <title lang="en">The Sisterhood of the Traveling Pants</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424143000 +0000" stop="20200424160000 +0000" channel="MoviesHD4">
+    <title lang="en">Cats &amp; Dogs</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424160000 +0000" stop="20200424173000 +0000" channel="MoviesHD4">
+    <title lang="en">Lego Dc Comics Super Heroes: The Flash</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424173000 +0000" stop="20200424191000 +0000" channel="MoviesHD4">
+    <title lang="en">Mirai</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424191000 +0000" stop="20200424210000 +0000" channel="MoviesHD4">
+    <title lang="en">What a Girl Wants</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424210000 +0000" stop="20200424223500 +0000" channel="MoviesHD4">
+    <title lang="en">Boonie Bears To The Rescue</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424223500 +0000" stop="20200424235500 +0000" channel="MoviesHD4">
+    <title lang="en">Justice League vs the Fatal Five</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20200424235500 +0000" stop="20200425012500 +0000" channel="MoviesHD4">
+    <title lang="en">Reign of the Supermen</title>
+    <category lang="en">Movies</category>
+  </programme>
+</tv>
